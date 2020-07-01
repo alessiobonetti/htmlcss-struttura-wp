@@ -5,15 +5,13 @@
 }
 
 .container {
-  height: 1000px;
-  width: : 1000px;
-  /* background-color: green; */
-  margin: 15px;
+  width: 1000px;
+  margin: auto;
+  padding-top: 1%;
 }
 
 
 .top {
-  height: 15%;
   background-color: yellow;
 }
 
@@ -24,14 +22,12 @@
 }
 
 .centre {
-  height: 100%;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
 
 .aside_left {
   float: left;
-  height: 60%;
   width: 28%;
   margin-right: 2%;
   background-color: pink;
@@ -39,20 +35,18 @@
 
 .middle {
   float: left;
-  height: 80%;
   width: 40%;
   background-color: purple;
 }
 
 .aside_right {
   float: left;
-  height: 60%;
   width: 28%;
   margin-left: 2%;
   background-color: pink;
 }
 
-.right_up {
+.widget {
   margin-bottom: 2px;
 }
 
